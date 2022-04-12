@@ -13,7 +13,7 @@ const page = {
 
 const IntroText = [
     'There are not nearly as many attractive yield earning opportunities in DeFi for people to put their precious Bitcoin to work for them.',
-    'Yeti has the potential to solve many of these probleme. As you proceed through this documentation, we will explore some of that potential in more detail..'
+    'Yeti has the potential to solve many of these problems. As you proceed through this documentation, we will explore some of that potential in more detail...'
 ]
 
 const code = `console.log('Connected address', USER_ADDRESS)
