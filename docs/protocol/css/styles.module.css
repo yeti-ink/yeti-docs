@@ -1,0 +1,26 @@
+.img {
+    height: 288px;
+    width: 288px;
+    margin: auto;
+    display: block;
+    align-self: center;
+    margin-bottom: 20px;
+}
+
+.bond {
+    height: auto;
+    width: 288px;
+    margin: auto;
+    display: block;
+    align-self: center;
+    margin-bottom: 20px;
+}
+
+.head {
+    height: auto;
+    width: 650px;
+    margin: auto;
+    display: block;
+    align-self: center;
+    margin-bottom: 20px;
+}

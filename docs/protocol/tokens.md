@@ -3,9 +3,25 @@ sidebar_position: 1
 hide_title: false
 title: Tokenomics
 ---
+
+import styles from './css/styles.module.css';
+
+<div className={styles.head} style={{textAlign: 'center'}}>
+
+![Tokenomics](<assets/tokens.png>)
+
+</div>
+
 Yeti's multi-token protocol currently consists of the following four tokens, and each plays a critical role in how the protocol works to maintain peg:
 
+
 ### YTC Token - (yeti.ink)
+
+<div className={styles.img} style={{textAlign: 'center'}}>
+
+![Tokenomics](<assets/YTC.png>)
+
+</div>
 
 The YTC token is designed to be used as a medium of exchange, and is intended to have many other use cases as the Yeti ecosystem grows. The built-in stability mechanisms within the protocol aim to maintain YTC's peg of 10,000 YTC = 1 Bitcoin (BTC) in the long run.
 
@@ -15,11 +31,23 @@ The YTC token is designed to be used as a medium of exchange, and is intended to
 
 ### xYTC - (Protocol Governance Token)
 
+<div className={styles.img} style={{textAlign: 'center'}}>
+
+![Tokenomics](<assets/xYTC.png>)
+
+</div>
+
 xYTC is the governance token of the Yeti DAO. It can be obtained by staking YTC. This helps to keep YTC supply limited while providing another means of earning yield for YTC holders, among other planned use cases.
 
 ### [xYTC - Yeti Protocol Governance Token](xytc-ytc-staking.md)
 
 ### YSHARE - (Yeti Shares)
+
+<div className={styles.img} style={{textAlign: 'center'}}>
+
+![Tokenomics](<assets/YSHARE.png>)
+
+</div>
 
 YTC Shares (YSHARE) are one of the ways to measure the value of the Yeti ink. Protocol and shareholder trust in its ability to consistently maintain YTC close to peg. During epoch expansions the protocol mints YTC and distributes it proportionally to all YSHARE holders who have staked their tokens in the Boardroom.
 
@@ -38,6 +66,12 @@ YSHARE has a maximum total supply of 70,001 tokens distributed as follows:
 :::
 
 ### YBOND - (YTC Bond)
+
+<div className={styles.bond} style={{textAlign: 'center'}}>
+
+![Tokenomics](<assets/YBOND_full.png>)
+
+</div>
 
 The main purpose of YTC Bonds (YBOND) is to help incentivize fluctuations in the YTC supply during epoch contraction periods. When the TWAP (time-weighted average price) of YTC falls below 10,000 to 1 BTC, YBONDs are issued and can be bought with YTC at the current price. Exchanging YTC for YBOND burns YTC tokens, taking them out of circulation (deflation) and helps to get the price back up to peg. These YBOND can be redeemed for YTC when the price is above peg in the future, plus a premium based on how high above peg we currently are. This conversely creates inflation and subsequent sell pressure for YTC when it is above peg, helping to push it back toward 10,000 YTC to 1 BTC ratio.
 

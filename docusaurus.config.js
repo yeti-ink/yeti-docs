@@ -109,6 +109,20 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+      plugins: [
+        [
+          '@docusaurus/plugin-ideal-image',
+          {
+            quality: 85,
+            //size: 288,
+            //max: 300, // max resized image's size.
+            //min: 240, // min resized image's size. if original is lower, use that size.
+            steps: 2, // the max number of images generated between min and max (inclusive)
+            disableInDev: false,
+          },
+        ],
+      ],
+    
 }
 
 module.exports = config
