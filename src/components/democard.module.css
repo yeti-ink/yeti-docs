@@ -1,0 +1,20 @@
+.demo_card {
+    margin: 20px;
+    width: calc(100% - 40px);
+    height: 230px;
+    background: var(--ifm-color-secondary-dark);
+}
+
+.demo_card img {
+    height: 180px;
+    display: block;
+    margin: auto;
+}
+
+.demo_card_label {
+    height: 40px;
+    overflow: hidden;
+    line-height: 40px;
+    text-align: center;
+    background-color: var(--ifm-navbar-background-color);
+}

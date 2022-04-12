@@ -1,0 +1,21 @@
+:::note
+You can directly head to the [Create a project](/docs/create-projectpro) guide to start experimenting with Rivalis.
+:::
+
+
+The project is divided in multiple sub-projects to deliver flexibility and extensibility.
+
+### @rivalis/core (library)
+Provides set of entities and utilities used for implementing real-time application server.
+- **Room** - An entity where your business logic lives. One Rivalis instance can hold multiple rooms.
+- **Actor** - An entity used to interact with user connection in one **Room**.
+- **Router** - An entity that holds one small part of business logic and interacts with **Actor** and actor events (join/leave). For example, if your game server needs player movement, the player movement logic can be implemented in one **Router**. This entity makes business logic reusable across all your projects. Implement once, use it everywhere.
+
+### **@rivalis/boot** (library)
+ Provides a way of creating a Rivalis instance where you don't need to define transport layer and user authorization. Meaning that, **@rivalis/boot** by default implements WebSocket server (using **@rivalis/transports**) as a transport layer and JWT validator for authentication/authorization.
+
+### **@rivalis/registry** (library/application server)
+By aggregating statistic data from all connected instances NodeJS application/library is able to orchestrate their state. With using http API provided by **@rivalis/registry** you can create or destroy a **Room** and inspect instance's state.
+ 
+### **@rivalis/console** (application server)
+Provides the ability to manage multiple **@rivalis/registry** instances (fleets) across multiple applications/games. Each application created in **@rivalis/console** will be associated with unique way of authentication/authorization (or not have one). 

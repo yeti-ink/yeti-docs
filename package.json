@@ -1,0 +1,65 @@
+{
+  "name": "Yeti-Docs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "docusaurus start",
+    "docusaurus": "docusaurus",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.0.0-beta.13",
+    "@docusaurus/preset-classic": "^2.0.0-beta.13",
+    "@mdx-js/react": "^1.6.21",
+    "@rivalis/core": "^3.1.5",
+    "@svgr/webpack": "^5.5.0",
+    "body-parser": "^1.19.0",
+    "clsx": "^1.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "file-loader": "^6.2.0",
+    "prism-react-renderer": "^1.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "url-loader": "^4.1.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "targets": {
+    "node": {
+      "engines": {
+        "node": ">= 14"
+      },
+      "includeNodeModules": true,
+      "distDir": "./bin",
+      "sourceMap": false
+    }
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/node": "^7.16.0",
+    "@babel/plugin-proposal-class-properties": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "concurrently": "^6.4.0",
+    "nodemon": "^2.0.15",
+    "parcel": "^2.0.1"
+  }
+}

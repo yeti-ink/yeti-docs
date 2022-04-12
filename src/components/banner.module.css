@@ -1,0 +1,49 @@
+.banner {
+    line-height: 60px;
+}
+
+.button {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    float: right;
+}
+
+@media screen and (max-width: 768px) {
+    .banner {
+        text-align: center;
+    }
+    
+    .button {
+        float: none;
+    }
+}
+
+.theme_dark {
+    background: var(--ifm-color-dark);
+}
+
+.theme_discord {
+    background: #7289DA;
+}
+
+.theme_discord .button {
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+}
+.theme_discord .button:hover {
+    background: #FFFFFF;
+    color: #2C2F33;
+}
+
+.theme_github {
+    background: #333;
+}
+
+.theme_github .button {
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+}
+.theme_github .button:hover {
+    background: #FFFFFF;
+    color: #2C2F33;
+}
