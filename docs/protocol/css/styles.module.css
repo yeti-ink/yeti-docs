@@ -24,3 +24,14 @@
     align-self: center;
     margin-bottom: 20px;
 }
+
+@media screen and (max-width: 543px) {
+ .head {
+    height: auto;
+    width: 288px;
+    margin: auto;
+    display: block;
+    align-self: center;
+    margin-bottom: 20px;
+}
+}
