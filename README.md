@@ -1,4 +1,4 @@
-[![logo](https://user-images.githubusercontent.com/10467454/113154097-f834d280-9237-11eb-95a9-bd62cdde4677.png)](https://yeti.ink)
+[![logo](https://raw.githubusercontent.com/yeti-ink/yeti-docs/main/static/img/logo.png)](https://yeti.ink)
 <h3 align="center">Yeti Website</h3>
 
 ---
