@@ -35,7 +35,7 @@ const Home = () => {
                 title="Why ape, when you can Yeti?"
                 description="Bridging the gap between algorithmic finance and Bitcoin."
                 button_label="Getting Started"
-                button_url='/docs'
+                button_url='/docs/main/intro'
                 image_url='/img/gfx-yeti.png'
                 image_alt='yeti overview'
             />
