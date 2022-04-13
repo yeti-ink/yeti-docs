@@ -49,7 +49,7 @@ xYTC is the governance token of the Yeti DAO. It can be obtained by staking YTC.
 
 </div>
 
-YTC Shares (YSHARE) are one of the ways to measure the value of the Yeti ink. Protocol and shareholder trust in its ability to consistently maintain YTC close to peg. During epoch expansions the protocol mints YTC and distributes it proportionally to all YSHARE holders who have staked their tokens in the Boardroom.
+YTC Shares (YSHARE) are one of the ways to measure the value of the Yeti Defi Protocol and shareholder trust in its ability to consistently maintain YTC close to peg. During epoch expansions the protocol mints YTC and distributes it proportionally to all YSHARE holders who have staked their tokens in the Boardroom.
 
 YSHARE has a maximum total supply of 70,001 tokens distributed as follows:
 
@@ -61,7 +61,7 @@ YSHARE has a maximum total supply of 70,001 tokens distributed as follows:
 
 4. Initial mint: 1 YSHARE minted upon contract creation for the initial pool
 
-:::tip The Yeti ink. team will use the treasury funds in any way that they feel is best for the long-term success of the protocol. 
+:::tip The Yeti Defi team will use the treasury funds in any way that they feel is best for the long-term success of the protocol. 
 
 :::
 

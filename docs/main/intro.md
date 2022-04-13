@@ -20,5 +20,5 @@ Potential gains aside, we believe it is our responsibility when relying on the b
 
 Bitcoin transactions are slow and expensive. There are not nearly as many attractive yield earning opportunities in DeFi for people to put their precious Bitcoin to work for them. $YTC, through the Yeti protocol, can solve many of these problems and more, generating immense value for our users in the process.
 
-As the Yeti ink ecosystem grows over time, the potential future applications are quite literally endless. And, as you proceed through this documentation and learn more about how the Yeti ink. protocol works, we will explore some of that potential in more detail.
+As the Yeti Defi ecosystem grows over time, the potential future applications are quite literally endless. And, as you proceed through this documentation and learn more about how the Yeti Defi protocol works, we will explore some of that potential in more detail.
 

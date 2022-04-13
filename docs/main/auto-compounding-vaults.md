@@ -4,11 +4,11 @@ hide_title: false
 sidebar_position: 5
 ---
 
-One of the unique advantages of being in the Yeti ink. ecosystem is that we have our own autocompounding vaults which are designed to maximize your earning potential.
+One of the unique advantages of being in the Yeti Defi ecosystem is that we have our own autocompounding vaults which are designed to maximize your earning potential.
 
-Staking YTC-WBTC LP, YSHARE-FTM LP, or YTC-YSHARE LP tokens in these vaults rewards you with more of the same LP (liquidity pool) tokens as the ones you have deposited. These deposits happen in the same yield farms that are available to everyone else on Yeti ink.
+Staking YTC-WBTC LP, YSHARE-FTM LP, or YTC-YSHARE LP tokens in these vaults rewards you with more of the same LP (liquidity pool) tokens as the ones you have deposited. These deposits happen in the same yield farms that are available to everyone else on Yeti Defi
 
-But here is where the auto-compounder magic steps in - every set amount of minutes, they harvest the YSHARE that you’ve earned and sell a portion of it automatically. The proceeds are then further used to mint more LP tokens on PancakeSwap which are again deposited into the Yeti ink. autocompounder, further growing your allocation with zero effort on your part.
+But here is where the auto-compounder magic steps in - every set amount of minutes, they harvest the YSHARE that you’ve earned and sell a portion of it automatically. The proceeds are then further used to mint more LP tokens on PancakeSwap which are again deposited into the Yeti Defi autocompounder, further growing your allocation with zero effort on your part.
 
 :::note Note: that while this entire process can be done manually, the autocompounder saves you from the hassle of having to schedule and remember specific actions, simplifying the whole process down to a single click and saving you loads in gas fees along the way.
 
@@ -16,7 +16,7 @@ But here is where the auto-compounder magic steps in - every set amount of minut
 
 The YTC-WBTC LP, YSHARE-FTM LP, and YTC-YSHARE LP pools pay rewards in YSHARE. If you’re in the YTC-YSHARE or YSHARE-FTM LP pools, 50% of your YSHARE rewards are sold to purchase YTC or FTM respectively each time the protocol auto-compounds. If you’re in the YTC-WBTC pool, 100% of your reward is sold and used to purchase half YTC and half WBTC each time. Unlike the YTC-WBTC or YTC-YSHARE vaults, the YSHARE-FTM vault does not apply any buy pressure on YTC.
 
-To access the Yeti ink. autocompounding vaults, just navigate to our Autovaults page. If you have any questions about how to use them, check the relevant sections below for the vault you want to use!
+To access the Yeti Defi autocompounding vaults, just navigate to our Autovaults page. If you have any questions about how to use them, check the relevant sections below for the vault you want to use!
 
 :::note One of the great things about our YTC-WBTC LP autovault is that because it is selling YSHARE to purchase both YTC and WBTC automatically every two hours, simply parking your YTC or WBTC in this autovault is all you need to do to add to your Bitcoin holdings automatically over time.
 

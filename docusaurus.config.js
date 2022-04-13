@@ -102,7 +102,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Yeti ink`,
+        copyright: `Copyright © ${new Date().getFullYear()} Yeti Defi`,
       },
       prism: {
         theme: lightCodeTheme,
