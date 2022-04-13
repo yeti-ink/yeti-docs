@@ -39,8 +39,6 @@ The YTC token is designed to be used as a medium of exchange, and is intended to
 
 xYTC is the governance token of the Yeti DAO. It can be obtained by staking YTC. This helps to keep YTC supply limited while providing another means of earning yield for YTC holders, among other planned use cases.
 
-### [xYTC - Yeti Protocol Governance Token](xytc-ytc-staking.md)
-
 ### YSHARE - (Yeti Shares)
 
 <div className={styles.img} style={{textAlign: 'center'}}>
@@ -51,7 +49,7 @@ xYTC is the governance token of the Yeti DAO. It can be obtained by staking YTC.
 
 YTC Shares (YSHARE) are one of the ways to measure the value of the Yeti Defi Protocol and shareholder trust in its ability to consistently maintain YTC close to peg. During epoch expansions the protocol mints YTC and distributes it proportionally to all YSHARE holders who have staked their tokens in the Boardroom.
 
-YSHARE has a maximum total supply of 70,001 tokens distributed as follows:
+YSHARE has a maximum total supply of 80,001 tokens distributed as follows:
 
 1. Treasury/DAO Allocation: 5,500 YSHARE vested linearly 12 months*
 
@@ -60,6 +58,8 @@ YSHARE has a maximum total supply of 70,001 tokens distributed as follows:
 3. Rewards: 59,500 YSHARE are allocated for incentivizing liquidity providers in two farming pools for 12 months
 
 4. Initial mint: 1 YSHARE minted upon contract creation for the initial pool
+
+5. Pre-sale: 10,000 YSHARE allocated for public presale hosted via [Pinksale.Finance](https://pinksale.finance)
 
 :::tip The Yeti Defi team will use the treasury funds in any way that they feel is best for the long-term success of the protocol. 
 
