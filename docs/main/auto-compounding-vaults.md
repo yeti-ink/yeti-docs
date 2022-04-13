@@ -8,7 +8,7 @@ One of the unique advantages of being in the Yeti Defi ecosystem is that we have
 
 Staking YTC-WBTC LP, YSHARE-FTM LP, or YTC-YSHARE LP tokens in these vaults rewards you with more of the same LP (liquidity pool) tokens as the ones you have deposited. These deposits happen in the same yield farms that are available to everyone else on Yeti Defi
 
-But here is where the auto-compounder magic steps in - every set amount of minutes, they harvest the YSHARE that you’ve earned and sell a portion of it automatically. The proceeds are then further used to mint more LP tokens on PancakeSwap which are again deposited into the Yeti Defi autocompounder, further growing your allocation with zero effort on your part.
+But here is where the auto-compounder magic steps in - every set amount of minutes, they harvest the YSHARE that you’ve earned and sell a portion of it automatically. The proceeds are then further used to mint more LP tokens on SpookySwap which are again deposited into the Yeti Defi autocompounder, further growing your allocation with zero effort on your part.
 
 :::note Note: that while this entire process can be done manually, the autocompounder saves you from the hassle of having to schedule and remember specific actions, simplifying the whole process down to a single click and saving you loads in gas fees along the way.
 
